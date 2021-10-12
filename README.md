@@ -4,5 +4,7 @@ This program is useful to get the current system information. It includes CPU,RA
 ------ To run the code ------
 
 1 --> Install python in system
+
 2 --> pip install psutil
+
 3 --> python sysinfo.py
